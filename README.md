@@ -12,6 +12,13 @@ Saya seorang **Mahasiswa** di [Itenas](https://www.itenas.ac.id/).<br>
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br> -->
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/rasifara_/)ku ya.
+
+<p align="left">
+<a href="https://github.com/rashifaminurrohim">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashifaminurrohim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashifaminurrohim&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **rashifaminurrohim/rashifaminurrohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
